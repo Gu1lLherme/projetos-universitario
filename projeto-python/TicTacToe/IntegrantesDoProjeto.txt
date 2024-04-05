@@ -1,0 +1,9 @@
+IDE utilizada - Visual Studio Code
+
+------- Integrantes ------
+Guilherme Eugênio Sacramento Barreto
+Alice Barboza de Carvalho
+Arthur Vinícius Melo Santos
+Adham Ariel do Carmo Aragão
+João Gabriel Costa Pinto de Mendonça
+Gustavo Bruno Sobral De Assis
